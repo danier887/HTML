@@ -1,0 +1,44 @@
+body{
+
+}
+
+nav{
+
+    background-color:darkblue;
+    padding: 10px;
+
+}
+
+nav a{
+    color: white;
+    padding-right:15px ;
+    padding-left: 15px;
+    border-right: 2px solid white;
+
+}
+
+div#wrapper, footer {
+
+    margin: auto;
+    width: 1000px;
+    background-color: rgb(251,235,235);
+    padding: 70px;
+}
+
+article{
+color: black;
+
+}
+
+footer{
+
+    margin-top: 200px;
+   background-color: rgb(166,166,166);
+    color: white;
+
+}
+footer a{
+
+    color: white;
+}
+

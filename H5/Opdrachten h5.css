@@ -1,0 +1,23 @@
+
+section{
+    background-color: yellow;
+    padding: 40px;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 5px;
+    border: 1px solid black;
+}
+div.pos{
+    position: relative;
+    top: 10px;
+    left: 10px;
+
+}
+
+
+
+
